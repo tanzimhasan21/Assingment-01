@@ -88,3 +88,30 @@ main section{
     border-radius: 50px;
     
 }
+
+/* productive users styles */
+
+.productive-users{
+    text-align: center;
+    background-color: #e5e7ff;
+    border-radius: 25px;
+    padding: 20px 142px;
+}
+.productive-users .section-title{
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.users-container{
+    display: flex;
+    justify-content: space-around;
+}
+.users-title{
+    font-size: 80px;
+    color: #4E47FF;
+    font-weight: bold;
+}
+.user-description{
+    font-size: 20px;
+    color: #72737f;
+}
