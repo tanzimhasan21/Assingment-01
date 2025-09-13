@@ -212,9 +212,6 @@ main section{
 .contact-column{
     width: 50%;
 }
-.contact .section-title{
-    /* align-items: center; */
-}
 .contact input[type="email"] , .contact input[type="text"] , .contact textarea{
     height: 70px;
     display: block;
@@ -232,5 +229,35 @@ main section{
 }
 .contact textarea{
     height: 100px;
+    padding: 15px 20px;
 }
 
+
+/* Footer styles  */
+.footer{
+    text-align: center;
+    background-color: #fff;
+    padding: 65px 590px;
+}
+
+.footer-title{
+    font-size: 100px;
+    color: #4E47FF;
+    margin-bottom: 8px;
+}
+.footer-description{
+    color: #8987A1;
+    margin-bottom: 20px;
+}
+.footer .links{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.footer a{
+    text-decoration: none;
+    color: #8987A1;
+}
+
+
+                                /* THE END */
