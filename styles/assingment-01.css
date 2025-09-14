@@ -249,6 +249,8 @@ main section{
 }
 .contact textarea{
     height: 100px;
+    padding-top: 15px;
+    padding-left: 30px;
 }
 
 
